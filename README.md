@@ -4,33 +4,8 @@
 - 🔭 I’m currently working on grade 9 schedule
 - 🧑 I'm grade 9 and I also study about programming
 - 🌱 Currently, I'm learning about svelte, typescript, javascript, react, ui development, vite
-<style>
-  @keyframes fade-fly-in {
-    from {
-      opacity:0;
-      transform:translateY(-10%);
-    }
-    to {
-      opacity:1;
-    }
-  }
-  .icon-container {
-    display:flex;
-  }
-  .icon-container > * {
-    animation:fade-fly-in 0.5s ease-in forwards;
-    opacity:0;
-    height:100%;
-    width:auto;
-  }
-  .icon-container > img:nth-child(2) {
-    animation-delay:0.3s
-  }
-  .icon-container > img:nth-child(3) {
-    animation-delay:0.6s
-  }
 
-</style>
+<link rel="stylesheet" href="style.css">
 <h3>Front end frameworks I know and love:</h3>
 <div class="icon-container">
   <img src="React.png" alt="React">
