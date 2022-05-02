@@ -5,7 +5,7 @@
 - 🧑 I'm grade 9 and I also study about programming
 - 🌱 Currently, I'm learning about svelte, typescript, javascript, react, ui development, vite
 
-## Front end frameworks I know and love
+## My stack:
 ![React.png](React.png)
 ![Vue.png](Vue.png)
 ![Svelte.png](Svelte.png)
