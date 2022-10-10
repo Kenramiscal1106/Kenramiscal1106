@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-- 🔭 I’m currently working on my portfolio and on a learning management system (lms) like schoology
+- 🔭 I’m currently writing blogs at my [blogposts](https://kendan.vercel.app/blog)
 - 🧑 I'm grade 9 and I also study about programming
 - 🌱 Currently, I'm learning about svelte, typescript, javascript, react, ui development, vite
 
