@@ -21,13 +21,14 @@ I'm Ken, a web developer
 <div style="display:flex; align-items:center;">
   <img src="React.png"  alt="React"/>
   <img src="Svelte.png"  alt="Svelte"/>
-  <img src="npm.png"  alt="npm"/>
   <img src="Tailwindcss.png"  alt="Tailwind"/>
 </div>
 
 ### Databases
 ![mongodb](Mongodb.png)
 ### Software and tooling
+
+![npm](npm.png)
 ![Vscode](Vscode.png)
 ![Git](Git.png)
 ![figma](Frame.png)
