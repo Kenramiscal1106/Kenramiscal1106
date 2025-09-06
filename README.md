@@ -9,6 +9,13 @@ I'm Ken, a web developer
 ---
 ## My stack:
 ### Programming Languages
+<div style="display:flex; align-items:center;">
+  <img src="CSS.png"  alt="css"/>
+  <img src="HTML.png"  alt="html"/>
+  <img src="Javascript.png"  alt="JAVASCRIPT"/>
+  <img src="Typescript.png"  alt="TYPESCRIPT"/>
+</div>
+
 ![css](CSS.png)
 ![html](HTML.png)
 ![JAVASCRIPT](Javascript.png)
