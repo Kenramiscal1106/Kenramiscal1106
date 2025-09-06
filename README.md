@@ -1,7 +1,12 @@
 # Hi there 👋
+I'm Ken, a web developer
+---
+- 🏫 Studying Computer Science at University of the Philippines - Los Baños
+- 🌱 Also actively learning anything related to the web
+- 🎨 Designing websites as part of the web development process
+- 👀 Interested in CS algorithms to know the inner workings of the technologies we use today
 
-- currently studying javascript frameworks that come out every 0 seconds
-
+---
 ## My stack:
 ### Programming Languages
 ![css](CSS.png)
