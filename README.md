@@ -16,16 +16,15 @@ I'm Ken, a web developer
   <img src="Typescript.png"  alt="TYPESCRIPT"/>
 </div>
 
-![css](CSS.png)
-![html](HTML.png)
-![JAVASCRIPT](Javascript.png)
-![typescript](Typescript.png)
 ### Frameworks
-![React.png](React.png)
-![Svelte.png](Svelte.png)
-![nextjs](Next%20js.png)
-![npm](npm.png)
-![tailwind](Tailwindcss.png)
+
+<div style="display:flex; align-items:center;">
+  <img src="React.png"  alt="React"/>
+  <img src="Svelte.png"  alt="Svelte"/>
+  <img src="npm.png"  alt="npm"/>
+  <img src="Tailwindcss.png"  alt="Tailwind"/>
+</div>
+
 ### Databases
 ![mongodb](Mongodb.png)
 ### Software and tooling
