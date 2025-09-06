@@ -1,6 +1,6 @@
 # Hi there 👋
 I'm Ken, a web developer
----
+
 - 🏫 Studying Computer Science at University of the Philippines - Los Baños
 - 🌱 Also actively learning anything related to the web
 - 🎨 Designing websites as part of the web development process
